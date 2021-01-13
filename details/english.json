@@ -1,0 +1,252 @@
+{
+    "tasksData": [
+        {
+            "name": "Generation 1, Kanto",
+            "localizedName": "Generation 1, Kanto",
+            "gameType": 0,
+            "useMixedTypes": false,
+            "orderNumber": 1,
+            "Levels": [
+                {
+                    "number": 1,
+                    "rightAnswer": "Tanjirou ",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 2,
+                    "rightAnswer": "Nezuko ",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 3,
+                    "rightAnswer": "Inosuke ",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                }
+            ]
+        }
+    ],
+    "gameItems": [
+        {
+            "key": 0,
+            "value": "play"
+        },
+        {
+            "key": 1,
+            "value": "about"
+        },
+        {
+            "key": 2,
+            "value": "quit"
+        },
+        {
+            "key": 3,
+            "value": "back"
+        },
+        {
+            "key": 4,
+            "value": "Get ready to solve some picture puzzles! Get stucked? Use different hints! Earn coins by completing tasks or by watching short AD! Have fun!"
+        },
+        {
+            "key": 5,
+            "value": "locked"
+        },
+        {
+            "key": 6,
+            "value": "Reveal a letter"
+        },
+        {
+            "key": 7,
+            "value": "Remove letters"
+        },
+        {
+            "key": 8,
+            "value": "Get an answer"
+        },
+        {
+            "key": 9,
+            "value": "Get coins"
+        },
+        {
+            "key": 10,
+            "value": "Watch AD"
+        },
+        {
+            "key": 11,
+            "value": "Buy for real money"
+        },
+        {
+            "key": 12,
+            "value": "continue"
+        },
+        {
+            "key": 13,
+            "value": "main menu"
+        },
+        {
+            "key": 14,
+            "value": "Level complete!"
+        },
+        {
+            "key": 15,
+            "value": "If you liked the game, please rate it on Google Play!"
+        },
+        {
+            "key": 16,
+            "value": "rate"
+        },
+        {
+            "key": 17,
+            "value": "never"
+        },
+        {
+            "key": 18,
+            "value": "later"
+        },
+        {
+            "key": 19,
+            "value": "Data collection consent"
+        },
+        {
+            "key": 20,
+            "value": "Personalized advertisements"
+        },
+        {
+            "key": 21,
+            "value": "Allow AD networks too use collected data and show personalized advertisements"
+        },
+        {
+            "key": 22,
+            "value": "yes"
+        },
+        {
+            "key": 23,
+            "value": "no"
+        },
+        {
+            "key": 24,
+            "value": "Looks like you have better progress!"
+        },
+        {
+            "key": 25,
+            "value": "Do you want to load it?"
+        },
+        {
+            "key": 26,
+            "value": "Hello there! Just to let you know, we use your gameplay and device data with your consent to improve our game!"
+        },
+        {
+            "key": 27,
+            "value": "Do you want us to present you relevant advertising that fits your interests?"
+        },
+        {
+            "key": 28,
+            "value": "Confirm"
+        },
+        {
+            "key": 29,
+            "value": "Learn more"
+        },
+        {
+            "key": 30,
+            "value": "Remove wrong answer"
+        },
+        {
+            "key": 31,
+            "value": "Remove two answers"
+        },
+        {
+            "key": 32,
+            "value": "Chanse to mistake"
+        },
+        {
+            "key": 33,
+            "value": "Please, help me to complete the level!"
+        },
+        {
+            "key": 34,
+            "value": "Help from friends"
+        },
+        {
+            "key": 35,
+            "value": "Ask friends"
+        },
+        {
+            "key": 36,
+            "value": "Bet"
+        },
+        {
+            "key": 37,
+            "value": "Use hints if you get stucked!"
+        },
+        {
+            "key": 38,
+            "value": "Tap the letter to clear it. Swipe to clear all letters."
+        },
+        {
+            "key": 39,
+            "value": "Scrape the film to reveal the image!"
+        },
+        {
+            "key": 40,
+            "value": "Tap this to make the image more clear. Requires gold!"
+        },
+        {
+            "key": 41,
+            "value": "Tap the image to make it more clear. Requires gold!"
+        },
+        {
+            "key": 42,
+            "value": "Tap this to start aiming. Tap in second time to shoot. Requires gold!"
+        },
+        {
+            "key": 43,
+            "value": "Tap the area to start aiming. Tap in second time to shoot. Requires gold!"
+        },
+        {
+            "key": 44,
+            "value": "Tap to get usefull info about the task!"
+        },
+        {
+            "key": 45,
+            "value": "How difficult this task is? Make a right bet!"
+        },
+        {
+            "key": 46,
+            "value": "more games"
+        },
+        {
+            "key": 47,
+            "value": "Retry"
+        }
+    ],
+    "subCategories": [],
+    "randomLetters": [
+        121,
+        98,
+        107,
+        119,
+        116,
+        114,
+        106,
+        118,
+        117,
+        99,
+        113,
+        105,
+        122,
+        120,
+        108
+    ]
+}
