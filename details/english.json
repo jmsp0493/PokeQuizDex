@@ -17,15 +17,6 @@
                     "cost": 0
                 },
                 {
-                    "number": 1,
-                    "rightAnswer": "Pikachu ",
-                    "imageText": "",
-                    "imageDescription": "",
-                    "wrongAnswers": [],
-                    "gameType": 0,
-                    "cost": 0
-                },
-                {
                     "number": 2,
                     "rightAnswer": "Bulbasaur ",
                     "imageText": "",
@@ -306,7 +297,7 @@
             "Levels": [
                 {
                     "number": 1,
-                    "rightAnswer": "Tanjirou ",
+                    "rightAnswer": "Sentret ",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -315,7 +306,7 @@
                 },
                 {
                     "number": 2,
-                    "rightAnswer": "Nezuko ",
+                    "rightAnswer": "Pichu ",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -324,7 +315,250 @@
                 },
                 {
                     "number": 3,
-                    "rightAnswer": "Inosuke ",
+                    "rightAnswer": "Ariados ",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 4,
+                    "rightAnswer": "Ampharos ",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 5,
+                    "rightAnswer": "Aipom ",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 6,
+                    "rightAnswer": "Skiploom ",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 7,
+                    "rightAnswer": "Cleffa ",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 8,
+                    "rightAnswer": "Forretress ",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 9,
+                    "rightAnswer": "Igglybuff ",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 10,
+                    "rightAnswer": "Quagsire ",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 11,
+                    "rightAnswer": "Spinarak ",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 12,
+                    "rightAnswer": "Chikorita ",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 13,
+                    "rightAnswer": "Misdreavus ",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 14,
+                    "rightAnswer": "Dunsparce ",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 15,
+                    "rightAnswer": "Togepi ",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 16,
+                    "rightAnswer": "Flaaffy ",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 17,
+                    "rightAnswer": "Totodile ",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 18,
+                    "rightAnswer": "Jumpluff ",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 19,
+                    "rightAnswer": "Cyndaquil ",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 20,
+                    "rightAnswer": "Natu ",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 21,
+                    "rightAnswer": "Mareep ",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 22,
+                    "rightAnswer": "Furret ",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 23,
+                    "rightAnswer": "Slowking ",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 24,
+                    "rightAnswer": "Croconaw ",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 25,
+                    "rightAnswer": "Noctowl ",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 26,
+                    "rightAnswer": "Hoothoot ",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 27,
+                    "rightAnswer": "Marill ",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 28,
+                    "rightAnswer": "Togetic ",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 29,
+                    "rightAnswer": "Crobat ",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 30,
+                    "rightAnswer": "Unown ",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
