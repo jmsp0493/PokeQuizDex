@@ -293,7 +293,7 @@
             "localizedName": "Johto",
             "gameType": 0,
             "useMixedTypes": false,
-            "orderNumber": 1,
+            "orderNumber": 2,
             "Levels": [
                 {
                     "number": 1,
@@ -572,29 +572,11 @@
             "localizedName": "Hoenn",
             "gameType": 0,
             "useMixedTypes": false,
-            "orderNumber": 1,
+            "orderNumber": 3,
             "Levels": [
                 {
                     "number": 1,
                     "rightAnswer": "Tanjirou ",
-                    "imageText": "",
-                    "imageDescription": "",
-                    "wrongAnswers": [],
-                    "gameType": 0,
-                    "cost": 0
-                },
-                {
-                    "number": 2,
-                    "rightAnswer": "Nezuko ",
-                    "imageText": "",
-                    "imageDescription": "",
-                    "wrongAnswers": [],
-                    "gameType": 0,
-                    "cost": 0
-                },
-                {
-                    "number": 3,
-                    "rightAnswer": "Inosuke ",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -608,29 +590,11 @@
             "localizedName": "Sinnoh",
             "gameType": 0,
             "useMixedTypes": false,
-            "orderNumber": 1,
+            "orderNumber": 4,
             "Levels": [
                 {
                     "number": 1,
                     "rightAnswer": "Tanjirou ",
-                    "imageText": "",
-                    "imageDescription": "",
-                    "wrongAnswers": [],
-                    "gameType": 0,
-                    "cost": 0
-                },
-                {
-                    "number": 2,
-                    "rightAnswer": "Nezuko ",
-                    "imageText": "",
-                    "imageDescription": "",
-                    "wrongAnswers": [],
-                    "gameType": 0,
-                    "cost": 0
-                },
-                {
-                    "number": 3,
-                    "rightAnswer": "Inosuke ",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -644,29 +608,11 @@
             "localizedName": "Teselia",
             "gameType": 0,
             "useMixedTypes": false,
-            "orderNumber": 1,
+            "orderNumber": 5,
             "Levels": [
                 {
                     "number": 1,
                     "rightAnswer": "Tanjirou ",
-                    "imageText": "",
-                    "imageDescription": "",
-                    "wrongAnswers": [],
-                    "gameType": 0,
-                    "cost": 0
-                },
-                {
-                    "number": 2,
-                    "rightAnswer": "Nezuko ",
-                    "imageText": "",
-                    "imageDescription": "",
-                    "wrongAnswers": [],
-                    "gameType": 0,
-                    "cost": 0
-                },
-                {
-                    "number": 3,
-                    "rightAnswer": "Inosuke ",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -680,29 +626,11 @@
             "localizedName": "Kalos",
             "gameType": 0,
             "useMixedTypes": false,
-            "orderNumber": 1,
+            "orderNumber": 6,
             "Levels": [
                 {
                     "number": 1,
                     "rightAnswer": "Tanjirou ",
-                    "imageText": "",
-                    "imageDescription": "",
-                    "wrongAnswers": [],
-                    "gameType": 0,
-                    "cost": 0
-                },
-                {
-                    "number": 2,
-                    "rightAnswer": "Nezuko ",
-                    "imageText": "",
-                    "imageDescription": "",
-                    "wrongAnswers": [],
-                    "gameType": 0,
-                    "cost": 0
-                },
-                {
-                    "number": 3,
-                    "rightAnswer": "Inosuke ",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -716,29 +644,11 @@
             "localizedName": "Alola",
             "gameType": 0,
             "useMixedTypes": false,
-            "orderNumber": 1,
+            "orderNumber": 7,
             "Levels": [
                 {
                     "number": 1,
                     "rightAnswer": "Tanjirou ",
-                    "imageText": "",
-                    "imageDescription": "",
-                    "wrongAnswers": [],
-                    "gameType": 0,
-                    "cost": 0
-                },
-                {
-                    "number": 2,
-                    "rightAnswer": "Nezuko ",
-                    "imageText": "",
-                    "imageDescription": "",
-                    "wrongAnswers": [],
-                    "gameType": 0,
-                    "cost": 0
-                },
-                {
-                    "number": 3,
-                    "rightAnswer": "Inosuke ",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -752,29 +662,11 @@
             "localizedName": "Galar",
             "gameType": 0,
             "useMixedTypes": false,
-            "orderNumber": 1,
+            "orderNumber": 8,
             "Levels": [
                 {
                     "number": 1,
                     "rightAnswer": "Tanjirou ",
-                    "imageText": "",
-                    "imageDescription": "",
-                    "wrongAnswers": [],
-                    "gameType": 0,
-                    "cost": 0
-                },
-                {
-                    "number": 2,
-                    "rightAnswer": "Nezuko ",
-                    "imageText": "",
-                    "imageDescription": "",
-                    "wrongAnswers": [],
-                    "gameType": 0,
-                    "cost": 0
-                },
-                {
-                    "number": 3,
-                    "rightAnswer": "Inosuke ",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
